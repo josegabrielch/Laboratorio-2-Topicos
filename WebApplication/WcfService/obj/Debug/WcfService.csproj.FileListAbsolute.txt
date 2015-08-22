@@ -1,0 +1,1 @@
+C:\Users\JoseGabriel\Documents\git\WebApplication\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
